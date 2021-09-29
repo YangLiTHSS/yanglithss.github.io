@@ -16,7 +16,7 @@ My research interests mainly include big data analysis, machine learning, and ne
 
     **Yang Li**, Hao Lin, Zhenhua Li, Yunhao Liu, Feng Qian, Liangyi Gong, Xianlong Xin, Tianyin Xu
     
-    *SIGCOMM'21: ACM International Conference on the Applications, Technologies, Architectures, and Protocols for Computer Communication, Aug. 23-27, 2021. (Accept ratio: 55/241=22.8%. Best Student Paper Award)*
+    *SIGCOMM'21: ACM International Conference on the Applications, Technologies, Architectures, and Protocols for Computer Communication, Aug. 23-27, 2021. (Accept ratio: 55/241=22.8%. <font color=#7FFF00>Best Student Paper Award</font>)*
 
 *   **Understanding the Ecosystem and Addressing the Fundamental Concerns of Commercial MVNO.**
 
