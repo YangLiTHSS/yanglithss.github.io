@@ -42,13 +42,18 @@ My research interests mainly include big data analysis, machine learning, and ne
 
 ## Industrial Cooperation
 *   **Xiaomi Technology, Xiaomi Mobile Group**
+
     - Project:
+    - Contribution:
     - Achievements:
+
     - Project:
+    - Contribution:
     - Achievements:
 
 *   **Microsoft Research Asia, System Research Group**
     - Project:
+    - Contribution:
     - Achievements:
 
 ## Honors and Awards
