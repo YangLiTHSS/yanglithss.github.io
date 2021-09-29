@@ -46,6 +46,13 @@ My research interests mainly include big data analysis, machine learning, and ne
 
     He Xiao, Zhenhua Li, Ennan Zhai, Tianyin Xu, **Yang Li**, Yunhao Liu, Quanlu Zhang, Yao Liu
     
-    *FAST'18: The 16th USENIX Conference on File and Storage Technologies, Feb. 12-15, 2018, Oakland, CA, US. (Accept ratio: 23/140=16%. Citations: 17)*
+    *FAST'18: The 16th USENIX Conference on File and Storage Technologies, Feb. 12-15, 2018, Oakland, CA, US. (Accept ratio: 23/140=16%)*
 
-## Awards
+## Honors and Awards
+*   **2021, ACM SIGCOMM Best Student Paper Award**
+*   **2021, 清华大学优秀硕士学位论文**
+*   **2021, 清华大学软件学院优秀硕士毕业生**
+*   **2020, 新疆乌鲁木齐经济技术开发区奖学金**
+*   **2019, 广联达奖学金**
+
+## Intern Experiences
