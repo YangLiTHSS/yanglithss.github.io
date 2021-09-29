@@ -1,6 +1,3 @@
-
-Email: liyang14thu@gmail.com
-
 ## About Me
 I am currently a 1st-year Ph.D. student at School of Software, Tsinghua University, supervised by Associate Professor [Zhenhua Li](http://www.greenorbs.org/people/lzh/index.html).
 Before that, I received my B.Sc. (2018.6) and M.Eng. (2021.6) degrees also from School of Software, Tsinghua University.
