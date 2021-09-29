@@ -41,8 +41,15 @@ My research interests mainly include big data analysis, machine learning, and ne
     *FAST'18: The 16th USENIX Conference on File and Storage Technologies, Feb. 12-15, 2018, Oakland, CA, US. (Accept ratio: 23/140=16%)*
 
 ## Industrial Cooperation
-*   **Xiaomi Technology**
-*   **Microsoft Research Asia**
+*   **Xiaomi Technology, Xiaomi Mobile Group**
+    - Project:
+    - Achievements:
+    - Project:
+    - Achievements:
+
+*   **Microsoft Research Asia, System Research Group**
+    - Project:
+    - Achievements:
 
 ## Honors and Awards
 *   **2021, ACM SIGCOMM Best Student Paper Award**
