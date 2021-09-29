@@ -1,8 +1,3 @@
-# Yang Li (李洋)
-
-Ph.D. Student
-
-School of Software, Tsinghua University
 
 Email: liyang14thu@gmail.com
 
