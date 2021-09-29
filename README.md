@@ -43,16 +43,16 @@ My research interests mainly include big data analysis, machine learning, and ne
 ## Industrial Cooperation
 *   **Xiaomi Technology, Xiaomi Mobile Group**
 
-    - **Project-1:**
+    - **Project-1:** Measurement, Analysis, and Enhancements on Cellular Reliability
     - **Contribution:**
     - **Achievements:**
 
-    - **Project-2:**
-    - **Contribution:**
+    - **Project-2:** In-depth Technical Optimization of Xiaomi Mobile
+    - **Contribution:** 
     - **Achievements:**
 
 *   **Microsoft Research Asia, System Research Group**
-    - **Project:**
+    - **Project:** Automating Cloud Deployment for Deep Learning Inference of Real-time Online Services
     - **Contribution:**
     - **Achievements:**
 
