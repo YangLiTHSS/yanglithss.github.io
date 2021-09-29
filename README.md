@@ -16,7 +16,7 @@ My research interests mainly include big data analysis, machine learning, and ne
 
     **Yang Li**, Hao Lin, Zhenhua Li, Yunhao Liu, Feng Qian, Liangyi Gong, Xianlong Xin, Tianyin Xu
     
-    *SIGCOMM'21: ACM International Conference on the Applications, Technologies, Architectures, and Protocols for Computer Communication, Aug. 23-27, 2021. (Accept ratio: 55/241=22.8%. <font color=#7FFF00>Best Student Paper Award</font>)*
+    *SIGCOMM'21: ACM International Conference on the Applications, Technologies, Architectures, and Protocols for Computer Communication, Aug. 23-27, 2021. (Accept ratio: 55/241=22.8%. **Best Student Paper Award**)*
 
 *   **Understanding the Ecosystem and Addressing the Fundamental Concerns of Commercial MVNO.**
 
@@ -29,5 +29,23 @@ My research interests mainly include big data analysis, machine learning, and ne
     **Yang Li**, Zhenhua Han, Quanlu Zhang, Zhenhua Li, Haisheng Tan
     
     *INFOCOM'20: The 39th IEEE International Conference on Computer Communications, Jul. 6-9, 2020, Online. (Accept ratio: 268/1354=19.8%)*
+    
+*   **An In-depth Study of Commercial MVNO: Measurement and Optimization**
+
+    Ao Xiao, Yunhao Liu, **Yang Li**, Feng Qian, Zhenhua Li, Sen Bai, Yao Liu, Tianyin Xu, Xianlong Xin
+    
+    *MobiSys'19: The 17th ACM International Conference on Mobile Systems, Applications and Services, Jun. 17-21, 2019, Seoul, South Korea. (Accept ratio: 39/172=22.7%)*
+
+*   **Systematically Landing Machine Learning onto Market-Scale Mobile Malware Detection**
+
+    Liangyi Gong, Hao Lin, Zhenhua Li, Feng Qian, **Yang Li**, Xiaobo Ma, Yunhao Liu
+    
+    *TPDS'20: IEEE Transactions on Parallel and Distributed Systems, Vol. 32, No. 7, Jul. 2021, Pages 1615-1628. (SCI, Impact factor: 2.6)*
+    
+*   **Towards web-based delta synchronization for cloud storage services**
+
+    He Xiao, Zhenhua Li, Ennan Zhai, Tianyin Xu, **Yang Li**, Yunhao Liu, Quanlu Zhang, Yao Liu
+    
+    *FAST'18: The 16th USENIX Conference on File and Storage Technologies, Feb. 12-15, 2018, Oakland, CA, US. (Accept ratio: 23/140=16%. Citations: 17)*
 
 ## Awards
