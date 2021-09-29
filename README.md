@@ -8,7 +8,7 @@ Email: liyang14thu@gmail.com
 
 ## About Me
 I am now a 1st-year Ph.D. student at School of Software, Tsinghua University, supervised by Associate Professor Zhenhua Li.
-Before that, I received my B.Sc. (2018.6) and M.Eng. (2021.6) degree also from School of Software, Tsinghua University.
+Before that, I received my B.Sc. (2018.6) and M.Eng. (2021.6) degrees also from School of Software, Tsinghua University.
 My research interests mainly include big data analysis, machine learning, and network measurement.
 
 ## Publications
@@ -54,5 +54,3 @@ My research interests mainly include big data analysis, machine learning, and ne
 *   **2021, 清华大学软件学院优秀硕士毕业生**
 *   **2020, 新疆乌鲁木齐经济技术开发区奖学金**
 *   **2019, 广联达奖学金**
-
-## Intern Experiences
