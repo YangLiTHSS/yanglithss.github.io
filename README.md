@@ -43,7 +43,7 @@ My research interests mainly include big data analysis, machine learning, and ne
 ## Industrial Cooperation
 *   **Xiaomi Technology, Xiaomi Mobile Group**
 
-    - **Project-1:** Measurement, Analysis, and Enhancements on Cellular Reliability
+    - **Project-1:** Measurement, Analysis, and Enhancements of Cellular Reliability
     - **Contribution:**
     - **Achievements:**
 
