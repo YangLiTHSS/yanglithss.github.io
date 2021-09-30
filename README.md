@@ -44,10 +44,19 @@ My research interests mainly include big data analysis, machine learning, and ne
 *   **2019.10 - now, Research Intern @ Xiaomi Technology, Xiaomi Mobile Group**
 
     Mentor: Xianlong Xin.
+    
+    Achievements: 
+    - Effective algorithm design for data reselling optimization and customer churn mitigation.
+    - Algorithm design for the fraud detection System (*lingquan*) of Xiaomi Mobile.
+    - 3 papers accepted by SIGCOMM'21, TON'20, and MobiSys'19 respectively.
 
 *   **2018.1 - 2018.7, Research Intern @ Microsoft Research Asia, System Research Group**
 
     Mentor: Quanlu Zhang.
+    
+    Achievements: 
+    - Implementation and test for Auto-ML system *Neural Network Intelligence (NNI)*.
+    - 1 paper accepted by INFOCOM'20.
 
 ## Honors and Awards
 *   **2021, ACM SIGCOMM Best Student Paper Award**
