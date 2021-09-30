@@ -43,11 +43,11 @@ My research interests mainly include big data analysis, machine learning, and ne
 ## Industrial Cooperation
 *   **2019.10 - now, Research Intern @ Xiaomi Technology, Xiaomi Mobile Group**
 
-    Mentor: Xianlong Xin, Achievements: 3 papers accepted by SIGCOMM'21, TON'20 and MobiSys'19.
+    Mentor: Xianlong Xin.
 
 *   **2018.1 - 2018.7, Research Intern @ Microsoft Research Asia, System Research Group**
 
-    Mentor: Quanlu Zhang, Achievements: 1 paper accepted by INFOCOM'20.
+    Mentor: Quanlu Zhang.
 
 ## Honors and Awards
 *   **2021, ACM SIGCOMM Best Student Paper Award**
