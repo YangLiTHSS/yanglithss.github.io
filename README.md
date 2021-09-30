@@ -51,7 +51,7 @@ My research interests mainly include big data analysis, machine learning, and ne
 *   **2018.1 - 2018.7, Research Intern @ Microsoft Research Asia, System Research Group**
 
     Mentor: Quanlu Zhang
-    - Implementation and test for Auto-ML system *Neural Network Intelligence (NNI)*.
+    - Implementation and test for the open-source Auto-ML system named *Neural Network Intelligence (NNI)*.
     - 1 paper accepted by INFOCOM'20.
 
 ## Honors and Awards
