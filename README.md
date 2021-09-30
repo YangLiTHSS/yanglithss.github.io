@@ -41,20 +41,9 @@ My research interests mainly include big data analysis, machine learning, and ne
     *FAST'18: The 16th USENIX Conference on File and Storage Technologies, Feb. 12-15, 2018, Oakland, CA, US. (Accept ratio: 23/140=16%)*
 
 ## Industrial Cooperation
-*   **Xiaomi Technology, Xiaomi Mobile Group**
+*   **2019.10 - now, Research Intern @ Xiaomi Technology, Xiaomi Mobile Group, Mentor: Xianlong Xin**
 
-    - **Project-1:** Measurement, Analysis, and Enhancements of Cellular Reliability
-    - **Contribution:**
-    - **Achievements:**
-
-    - **Project-2:** In-depth Technical Optimization of Xiaomi Mobile
-    - **Contribution:** 
-    - **Achievements:**
-
-*   **Microsoft Research Asia, System Research Group**
-    - **Project:** Automating Cloud Deployment for Deep Learning Inference of Real-time Online Services
-    - **Contribution:**
-    - **Achievements:**
+*   **2018.1 - 2018.7, Research Intern @ Microsoft Research Asia, System Research Group, Mentor: Quanlu Zhang**
 
 ## Honors and Awards
 *   **2021, ACM SIGCOMM Best Student Paper Award**
